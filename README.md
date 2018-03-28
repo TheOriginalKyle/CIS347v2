@@ -54,11 +54,7 @@ The full effects of this script is that everytime it is ran it will ask ODL for 
 
   > I just included the ones I could remember if there's one that should be added do let me know.
   
-3. Is the alarm set to POE?
-
-  > This script uses python2.
-  
-5. Is it parsing the JSON correctly? Or are you on the right version?
+3. Is it parsing the JSON correctly? Or are you on the right version?
 
   > I wrote this for Nitrogen it wont parse correctly on most other versions.
 
